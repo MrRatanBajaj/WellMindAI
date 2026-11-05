@@ -1,11 +1,11 @@
 <div align="center">
 
-# WellMind AI
+# WellMindAI
 
 **Autonomous 24/7 Digital Human AI for Face-to-Face Mental Wellness & Distress Triage**
 
 [![Website](https://img.shields.io/badge/Website-wellmindai.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wellmindai.in)
-[![Crunchbase](https://img.shields.io/badge/Crunchbase-Verified-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com)
+[![Crunchbase](https://img.shields.io/badge/Crunchbase-Verified-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/organization/wellmindai))
 [![Status](https://img.shields.io/badge/Status-Live%20Platform-059669?style=for-the-badge)](https://wellmindai.in)
 
 </div>
@@ -14,7 +14,7 @@
 
 ## 📌 Executive Summary
 
-**WellMind AI** is an enterprise mental health technology platform engineered to bridge systemic therapist shortages and eliminate the stigma associated with seeking psychological help. 
+**WellMindAI** is an enterprise mental health technology platform engineered to bridge systemic therapist shortages and eliminate the stigma associated with seeking psychological help. 
 
 By pairing lifelike, expressive digital human avatars with domain-specific small language models (SLMs), WellMind AI delivers real-time, face-to-face mental health support and distress triage around the clock, without human waitlists or clinic appointment delays.
 
