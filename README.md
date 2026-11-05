@@ -49,3 +49,15 @@ By pairing lifelike, expressive digital human avatars with domain-specific small
                  │
                  ▼
 [ Autonomous Digital Human Avatar Video Stream ]
+
+
+
+🔐 Safety & Ethical Boundaries
+WellMind AI functions as an assistive wellness platform and distress triage layer. It does not replace emergency crisis intervention services, licensed psychiatric medicine, or diagnostic clinical therapy. Immediate escalation paths are hardwired for critical risk detections.
+
+🌐 Official Channels
+Platform Website: wellmindai.in
+
+General Inquiries: contact@wellmindai.in
+
+Institutional Partnerships: partnership@wellmindai.in
